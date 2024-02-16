@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerNewsBestStories", "HackerNewsBestStories\HackerNewsBestStories.csproj", "{D8C89DF3-703B-4EBE-A669-51A120656371}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerNewsBestStories.Tests", "HackerNewsBestStories.Tests\HackerNewsBestStories.Tests.csproj", "{CFD463BE-578F-402A-8383-1CD1F13A8950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8C89DF3-703B-4EBE-A669-51A120656371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C89DF3-703B-4EBE-A669-51A120656371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C89DF3-703B-4EBE-A669-51A120656371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C89DF3-703B-4EBE-A669-51A120656371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD463BE-578F-402A-8383-1CD1F13A8950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD463BE-578F-402A-8383-1CD1F13A8950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD463BE-578F-402A-8383-1CD1F13A8950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD463BE-578F-402A-8383-1CD1F13A8950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
