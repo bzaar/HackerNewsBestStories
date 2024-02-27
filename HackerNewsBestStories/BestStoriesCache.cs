@@ -39,7 +39,7 @@ public class BestStoriesCache
 
     private async Task<Story> FetchStory(int id)
     {
-        var story = await Fetch<HNStory>("/item/"+id);
+        var story = await Fetch<Item>("/item/"+id);
         return new Story(
             Title: story.Title,
             Url: story.Url,
