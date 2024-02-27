@@ -41,7 +41,7 @@ The services caches the responses from the HN API: it only calls the /beststorie
 
 ## How to Run
 
-One a machine with .NET 7 installed, cd into the HackerNewsBestStories folder and type ```dotnet run```:
+On a machine with .NET 7 installed, cd into the HackerNewsBestStories folder and type ```dotnet run```:
 
 ```cmd
 C:\Code\HackerNewsBestStories> cd HackerNewsBestStories
